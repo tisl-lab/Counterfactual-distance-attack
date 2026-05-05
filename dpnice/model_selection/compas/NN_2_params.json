@@ -1,0 +1,6 @@
+{
+    "NN__activation": "relu",
+    "NN__alpha": 0.01,
+    "NN__learning_rate": "constant",
+    "NN__solver": "sgd"
+}
